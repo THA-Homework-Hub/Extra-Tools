@@ -40,10 +40,10 @@ Example prompt:
 Sometimes stuff gets in the way and you gotta do what you gotta do! NotebookLM can help you finish work faster by:
 
 * **Copying answers from whole textbooks**
-  Upload books (like those in [/Extra-Tools/Websites/Darksites/Annes-Archive/](./Extra-Tools/Websites/Darksites/Annes-Archive/)) and ask for direct answers without reading the book yourself. It even gives specific citations so you know exactly where the answers came from.
+  Upload books (like those in [Annes Archive](/Extra-Tools/Websites/Darksites/Annes-Archive/) and ask for direct answers without reading the book yourself. It even gives specific citations so you know exactly where the answers came from.
 
 * **Rewriting text to avoid plagiarism**
-  It can rephrase paragraphs so they don’t look like a direct copy. Great to avoid plagiarism, but not so great against AI checkers. See [/Extra-Tools/Websites/AI-Tools/GPTzero/](./Extra-Tools/Websites/AI-Tools/GPTzero/) to avoid these.
+  It can rephrase paragraphs so they don’t look like a direct copy. Great to avoid plagiarism, but not so great against AI checkers. See [GPTzero](/Extra-Tools/Websites/AI-Tools/GPTzero/) to avoid these.
 
 * **Polishing and expanding your answers**
   Improve the wording of your work to make it seem more complete or professional. Useful if you have no clue what your talking about!
