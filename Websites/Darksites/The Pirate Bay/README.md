@@ -32,7 +32,7 @@ However, caution must be exercised to ensure only legally permitted content is a
 
 ---
 
-### LEGAL & ETHICAL DISCLAIMER
+### ⚠️ LEGAL & ETHICAL DISCLAIMER ⚠️ 
 
 Downloading or sharing copyrighted material without explicit permission is illegal in many countries. This repository does NOT endorse or promote illegal activity. Always verify the legal status of the content and abide by your local laws and institutional policies.
 
