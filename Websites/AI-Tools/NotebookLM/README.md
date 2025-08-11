@@ -72,7 +72,7 @@ Sometimes stuff gets in the way and you gotta do what you gotta do! NotebookLM c
 
 ## Official Link
 
-* [NotebookLM](https://notebooklm.google/)
+* [NotebookLM](https://notebooklm.google.com/)
 
 ---
 
