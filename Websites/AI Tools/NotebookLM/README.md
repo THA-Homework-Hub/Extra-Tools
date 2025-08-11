@@ -14,7 +14,7 @@ NotebookLM (by Google) is an AI tool that helps you study by summarizing documen
 ## What you need
 
 * A Google account with access to NotebookLM (availability varies by region and email provider).
-* PDFs, lecture slides, notes, or textbooks you are legally allowed to upload.
+* PDFs, lecture slides, notes, or textbooks.
 
 ---
 
@@ -37,22 +37,18 @@ Example prompt:
 
 ## For Time-Savers 😈
 
-NotebookLM can help you finish work faster by:
+Sometimes stuff gets in the way and you gotta do what you gotta do! NotebookLM can help you finish work faster by:
 
 * **Copying answers from whole textbooks**
-  Upload books (like those in [Extra-Tools/Websites/Darksites/Annes Archive/](./Extra-Tools/Websites/Darksites/Annes%20Archive/)) and ask for direct answers without reading everything yourself.
+  Upload books (like those in [Extra-Tools/Websites/Darksites/Annes Archive/](./Extra-Tools/Websites/Darksites/Annes%20Archive/)) and ask for direct answers without reading the book yourself. It even gives specific citations so you know exactly where the answers came from.
 
-* **Rewriting text to avoid copying word-for-word**
-  It can rephrase paragraphs so they don’t look like a direct copy.
-
-* **Making outlines or essay drafts quickly**
-  Generate structured outlines or draft essays in minutes to get a head start on projects.
+* **Rewriting text to avoid plagiarism**
+  It can rephrase paragraphs so they don’t look like a direct copy. Great to avoid plagiarism, but not so great against AI checkers. See [Extra-Tools/Websites/AI Tools/GPTzero/](./Extra-Tools/Websites/AI Tools/GPTzero/) to avoid these.
 
 * **Polishing and expanding your answers**
-  Improve the wording of your work to make it seem more complete or professional.
+  Improve the wording of your work to make it seem more complete or professional. Useful if you have no clue what your talking about!
 
-**Warning:** Using these shortcuts comes with risks. Always double-check your work and follow your school’s rules. Misusing AI tools can lead to academic penalties or loss of learning. Use responsibly!
-
+**Warning:** Using these shortcuts comes with risks. Always double-check your work and follow your school’s rules. Misusing these tools can lead to academic penalties or loss of learning. Use responsibly!
 
 ---
 
@@ -85,10 +81,9 @@ You can upload PDFs stored in this repository for NotebookLM to index and query.
 
 ---
 
-## Links & resources
+## Official Link
 
-* Official: [NotebookLM overview and access](https://notebooklm.google/)
-* Repository folder: [Extra-Tools/Websites/Darksites/Annes Archive/](./Extra-Tools/Websites/Darksites/Annes%20Archive/)
+* Notebook LM: [NotebookLM overview and access](https://notebooklm.google/)
 
 ---
 
