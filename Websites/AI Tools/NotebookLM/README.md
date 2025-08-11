@@ -7,7 +7,7 @@
 
 ## What is NotebookLM?
 
-NotebookLM (by Google) is an AI-assisted research & study notebook that helps you summarize uploaded documents, extract and cite passages, generate targeted study prompts, and interactively query entire PDFs or note collections.
+NotebookLM (by Google) is an AI tool that helps you study by summarizing documents, finding important quotes with sources, creating study questions, and letting you ask questions about your PDFs or notes.
 
 ---
 
@@ -37,21 +37,22 @@ Example prompt:
 
 ## For Time-Savers 😈
 
-NotebookLM can also help you save time, but watch out for the risks:
+NotebookLM can help you finish work faster by:
 
-* **Quick outlines & essay starters**
-  It makes outlines or essay drafts fast. Good for getting started, but don’t just turn it in as your own work.
+* **Copying answers from whole textbooks**
+  Upload books (like those in [Extra-Tools/Websites/Darksites/Annes Archive/](./Extra-Tools/Websites/Darksites/Annes%20Archive/)) and ask for direct answers without reading everything yourself.
 
-* **Short summaries instead of reading**
-  It gives short chapter summaries. Helpful if you’re pressed for time, but you’ll miss details and might do worse on tests.
+* **Rewriting text to avoid copying word-for-word**
+  It can rephrase paragraphs so they don’t look like a direct copy.
 
-* **Fixing and rewording answers**
-  It can make your answers sound better. This looks good, but many schools want you to say if you used AI.
+* **Making outlines or essay drafts quickly**
+  Generate structured outlines or draft essays in minutes to get a head start on projects.
 
-* **Paraphrasing text**
-  It rewrites text to avoid copying word-for-word. This still counts as plagiarism if you don’t say where it’s from.
+* **Polishing and expanding your answers**
+  Improve the wording of your work to make it seem more complete or professional.
 
-If you use these tricks check everything carefully to avoid getting in trouble!
+**Warning:** Using these shortcuts comes with risks. Always double-check your work and follow your school’s rules. Misusing AI tools can lead to academic penalties or loss of learning. Use responsibly!
+
 
 ---
 
