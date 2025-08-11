@@ -6,9 +6,9 @@ A curated collection of web-based tools designed to support study, research, and
 
 ## Categories
 
-* **[AI Tools](/AI-Tools)**
-* **[Study Tools](/Study-Tools)**
-* **[Darksites](/Darksites)** — Use with caution. Please read all disclaimers carefully and prioritize legal and ethical use.
+* **[AI Tools](/Websites/AI-Tools)**
+* **[Study Tools](/Websites/Study-Tools)**
+* **[Darksites](/Websites/Darksites)** — Use with caution. Please read all disclaimers carefully and prioritize legal and ethical use.
 ---
 
 ## How to Add a New Tool
