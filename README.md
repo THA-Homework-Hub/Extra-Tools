@@ -11,8 +11,8 @@ This repository is actively being developed. More tools, examples, and reference
 
 ## Repository Structure
 
-- 🎥 **Watch Videos:** [YouTube Channel](https://www.youtube.com/channel/UCtBXIkg88TM6kGwUL80WEKg)   
-- 💻 **Web Tools** [/Websites/](/Websites/)
+- 🎥 **[YouTube Channel](https://www.youtube.com/channel/UCtBXIkg88TM6kGwUL80WEKg)**   
+- 💻 **[Web Tools](/Websites/)**
 
 ---
 
