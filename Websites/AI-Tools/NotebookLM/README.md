@@ -62,17 +62,6 @@ Sometimes stuff gets in the way and you gotta do what you gotta do! NotebookLM c
 
 ---
 
-## Using this repo’s resources
-
-You can upload PDFs stored in this repository for NotebookLM to index and query.
-
-* Repo folder (local): `Extra-Tools/Websites/Darksites/Annes Archive/`
-* Clickable link inside the repo: [Extra-Tools/Websites/Darksites/Annes Archive/](./Extra-Tools/Websites/Darksites/Annes%20Archive/)
-
-**Important:** only upload materials you are legally permitted to use. See Disclaimer.
-
----
-
 ## Example prompts (copy-paste)
 
 * “Summarize Chapter 2 in 150 words and list 5 conceptual exam-style questions (with page refs).”
@@ -83,7 +72,7 @@ You can upload PDFs stored in this repository for NotebookLM to index and query.
 
 ## Official Link
 
-* Notebook LM: [NotebookLM overview and access](https://notebooklm.google/)
+* [NotebookLM](https://notebooklm.google/)
 
 ---
 
