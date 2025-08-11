@@ -23,10 +23,15 @@ NotebookLM (by Google) is an AI tool that helps you study by summarizing documen
 NotebookLM helps you study smarter and understand better by letting you:
 
 * **Get quick summaries:** Upload notes or chapters and ask for short summaries with key points and page numbers.
+
 * **Ask specific questions:** Check things you don’t get by asking about tricky parts or important ideas.
+
 * **Make study plans:** Create schedules and flashcards to help you review the stuff you find hardest.
-* **Find exact quotes:** Upload textbooks you own and get the exact text with page numbers for essays or projects.
+
+*  **Find exact quotes:** Upload textbooks you own and get the exact text with page numbers for essays or projects.
+
 * **Explain tough stuff:** Turn hard paragraphs into easy step-by-step explanations or examples.
+  
 * **Keep your sources right:** Use the quotes and pages it gives you—but always double-check before you cite them.
 
 Example prompt:
