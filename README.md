@@ -11,7 +11,7 @@ This repository is actively being developed. More tools, examples, and reference
 
 ## Repository Structure
 
-- 🎥 **Watch Videos:** [YouTube Channel](https://youtube.com/@YourChannelName)  
+- 🎥 **Watch Videos:** [YouTube Channel](https://www.youtube.com/channel/UCtBXIkg88TM6kGwUL80WEKg)  
 - 📂 **Extra Resources:** [resources/](resources/)  
 - 💻 **Code & Examples:** [code/](code/)
 
